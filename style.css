@@ -141,16 +141,20 @@ figcaption {
 
 .cta-container {
     margin: 100px 0;
+    display: flex;
+    justify-content: center;
 }
 
 .cta {
     background-color: #3882f6;
     color: white;
     margin: 50px 150px;
-    padding: 10px;
+    padding: 20px;
+    width: 1200px;
     border-radius: 10px;
     display: flex;
     justify-content: space-around;
+    align-items: center;
 }
 
 .cta-info {
@@ -159,5 +163,25 @@ figcaption {
 
 .cta-info h5 {
     font-size: 1em;
-    padding-top: 10px;
+    margin-top: 20px;
+}
+
+.cta-info p {
+    margin-top: -20px;
+}
+
+.cta-btn {
+    border: 3px solid #f9faf8;
+    background-color: #3882f6;
+    color: white;
+    font-size: 1rem;
+    border-radius: 10px;
+    padding: 5px 25px;
+}
+
+
+
+footer {
+    padding: 30px;
+    color: #e5e7eb;
 }

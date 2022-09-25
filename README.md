@@ -5,7 +5,11 @@ I created this page to mirror the example given for the assignment.  I added som
 Unsplash photo credits: 
 
 Umbrella photo by Osman Rana.
+
 Headphones photo by C D-X.
+
 NYC photo by Luke Stackpoole.
+
 Ice Cream photo by Elza Kurbanova.
+
 Graffiti photo by Rosie Kerr.
